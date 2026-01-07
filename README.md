@@ -14,6 +14,7 @@ Cada carga se guarda en un archivo CSV, y una vez finalizada la carga de todos l
 
 # 🧩 Diagrama de Clases
 
+<img width="962" height="663" alt="image" src="https://github.com/user-attachments/assets/396f454b-ef88-4d02-872d-2abed6cf828f" />
 
 
 
